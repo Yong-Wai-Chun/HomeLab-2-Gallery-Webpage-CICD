@@ -15,7 +15,7 @@
   </div>
 
   <div> <!-- The main banner -->
-
+    //
     <?php // upload cover image
     include_once 'coverupload/database.cov.php';
 
