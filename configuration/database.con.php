@@ -1,8 +1,8 @@
 <?php
 
 $servername = "mysql-container"; // match the container name above
-// $username = "root";
-// $password = "root";
+$username = "root";
+$password = "root";
 $dbname = "gallery";
 $dbPass = getenv("MYSQL_ROOT_PASSWORD");
 $dbName = getenv("MYSQL_DATABASE");
